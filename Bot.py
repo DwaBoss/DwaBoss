@@ -1,7 +1,7 @@
 import aiohttp
 from io import BytesIO
 from pyrogram import client, filters
-from pyrogram types Message
+from pyrogram import message
 from Python_ARQ import ARQ
 
 
