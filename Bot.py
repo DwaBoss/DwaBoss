@@ -1,15 +1,15 @@
 import aiohttp
 from io import BytesIO
 from pyrogram import client, filters
-from pyrogram. types Message
+from pyrogram types Message
 from Python_ARQ import ARQ
 
 
 app = Client(
 "quote",
 bot_token="2019666523:AAGpiM_x86nkNPYdWzzOxuQybgRadksgz1A",
-api_id=2019666523,
-api_hash="AAGpiM_x86nkNPYdWzzOxuQybgRadksgz1A",
+api_id=4620439,
+api_hash="ddbf2ab83cc47e0722d1593b6072dccf",
 )
 ARQ_URL = "http://thearq.tech/"
 session = aiohttp.ClientSession()
